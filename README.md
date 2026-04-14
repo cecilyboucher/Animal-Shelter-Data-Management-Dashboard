@@ -49,8 +49,7 @@ Animal shelters often manage large datasets that are difficult to navigate manua
 ---
 
 ## 📸 Screenshots
-<img width="1366" height="720" alt="image" src="https://github.com/cecilyboucher/EventFlow-Mobile-App/blob/main/Dashboard 1.png" />
-
+<img width="1366" height="720" alt="image" src="https://github.com/cecilyboucher/Animal-Shelter-Data-Management-Dashboard/blob/main/Dashboard%201.png"/>
 
 ---
 
