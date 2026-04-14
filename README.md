@@ -58,9 +58,7 @@ Animal shelters often manage large datasets that are difficult to navigate manua
 <img width="1366" height="720" alt="image" src="https://github.com/cecilyboucher/Animal-Shelter-Data-Management-Dashboard/blob/main/Dashboard%207.png"/>
 <img width="1366" height="720" alt="image" src="https://github.com/cecilyboucher/Animal-Shelter-Data-Management-Dashboard/blob/main/Dashboard%208.png"/>
 
-
 ---
-
 
 ## 👩‍💻 Author
 Cecily Boucher  
